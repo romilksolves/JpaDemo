@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 11 16:54:33 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0178-2107-f833-00000874e170 
+on database directory memory:/media/ksolvesEclipse/Git/JpaDemo/ac93da9e-1572-444f-b0b7-666236732af4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/home/ksolves/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.10+9-Ubuntu-0ubuntu1.18.04
+user.dir=/media/ksolvesEclipse/Git/JpaDemo
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-66-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

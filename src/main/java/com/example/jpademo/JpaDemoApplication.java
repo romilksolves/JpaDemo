@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JpaDemoApplication {
 
+	// Entry point method
 	public static void main(String[] args) {
 		SpringApplication.run(JpaDemoApplication.class, args);
 	}
